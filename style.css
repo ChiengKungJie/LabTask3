@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(155, 155, 155);
+}
+
+.header {
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    background-color: red;
+    color: white;
+    line-height: 70px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    height: 70px;
+}
+
+.links {
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    font-size: 18px;
+    background-color: white;
+    height: 30px;
+    line-height: 30px;
+}
+
+img {
+    float: left;
+    width: 20%;
+    height: auto;
+}
+
+.tableleft {
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    background-color: rgb(201, 201, 201);
+    font-size: 25px;
+    float: left;
+    width: 60%;
+}
+
+.tableright {
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    background-color: rgb(201, 201, 201);
+    font-size: 25px;
+    float: right;
+    width: 39%;
+}
+
+.copyright {
+    text-align: center;
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    font-size: 18px;
+    background-color: white;
+    height: 30px;
+    line-height: 30px;
+}
